@@ -1,0 +1,10 @@
+[project]
+name = "vts-inference"
+version = "0.1.0"
+description = "Inference-only packaging for VTS voice/text-conditioned sound effect generation."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.setuptools]
+py-modules = []
